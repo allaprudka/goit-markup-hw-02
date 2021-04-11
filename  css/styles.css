@@ -1,0 +1,80 @@
+body {
+  font-family: 'Roroto', 'Verdana', 'Tahoma', sans-serif;
+  color: #212121;
+}
+
+.button-prtfl {
+  background-color: #f5f4fa;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16;
+  cursor: pointer;
+}
+
+.button-prtfl:hover {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+
+.button-prtfl:focus {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+
+.link-header {
+  color: #212121;
+  font-size: 14;
+}
+
+.link-header:hover {
+  color: #2196f3;
+}
+
+.link-header:focus {
+  color: #2196f3;
+}
+
+.button {
+  color: #ffffff;
+  background-color: #2196f3;
+  font-size: 16;
+  cursor: pointer;
+}
+
+.contact-us-header {
+  color: #757575;
+  font-size: 14;
+}
+
+.contact-us-header:hover {
+  color: #2196f3;
+}
+
+.contact-us-header:focus {
+  color: #2196f3;
+}
+
+.contact-us-footer {
+  color: #ffffff99;
+  font-size: 14;
+  line-height: 171%;
+}
+
+.contact-us-footer:hover {
+  color: #2196f3;
+}
+
+.contact-us-footer:focus {
+  color: #2196f3;
+}
+
+.prtfl-card-title {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 200%;
+}
+
+.prtfl-filtr-description {
+  font-size: 16px;
+  line-height: 187%;
+}
